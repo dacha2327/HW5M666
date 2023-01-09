@@ -18,6 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/result"
+            android:textStyle="bold"
             android:orientation="horizontal"
             android:textSize="28sp"
             android:scrollbars="vertical"
